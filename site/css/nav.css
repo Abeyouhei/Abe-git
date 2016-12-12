@@ -1,0 +1,53 @@
+/* ロールオーバーのスタイル */
+
+div#nav ul li a{
+	display: block;
+	width: 120px;
+	height: 30px;
+}
+
+
+div#nav ul li#roll_01 a{
+	background-image: url("../image/button_top.gif");
+}
+div#nav ul li#roll_01 a:hover{
+	background-image: url("../image/button_top_hover.gif");
+}
+
+div#nav ul li#roll_02 a{
+	background-image: url("../image/button_stay.gif");
+}
+div#nav ul li#roll_02 a:hover{
+	background-image: url("../image/button_stay_hover.gif");
+}
+
+div#nav ul li#roll_03 a{
+	background-image: url("../image/button_event.gif");
+}
+div#nav ul li#roll_03 a:hover{
+	background-image: url("../image/button_event_hover.gif");
+}
+
+div#nav ul li#roll_04 a{
+	background-image: url("../image/button_experience.gif");
+}
+div#nav ul li#roll_04 a:hover{
+	background-image: url("../image/button_experience_hover.gif");
+}
+
+div#nav ul li#roll_05 a{
+	background-image: url("../image/button_photo.gif");
+}
+div#nav ul li#roll_05 a:hover{
+	background-image: url("../image/button_photo_hover.gif");
+}
+
+div#nav ul li#roll_06 a{
+	background-image: url("../image/button_inquiry.gif");
+}
+div#nav ul li#roll_06 a:hover{
+	background-image: url("../image/button_inquiry_hover.gif");
+}
+
+
+

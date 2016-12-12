@@ -1,0 +1,59 @@
+/* index.html div#content_inÇÃÉXÉ^ÉCÉã */
+
+div#content_in div.pref{}
+
+div#content_in div.pref h2{
+	width: 120px;
+	margin: 0 0 10px 0;
+	padding: 8px 5px;
+	border-width: 1px 1px 1px 20px;
+	border-color: #0000FF;
+	border-style: solid;
+	/* Ç‹Ç∆ÇﬂÇÈèÍçá border: 1px #F00 solid; */
+}
+
+div#content_in div.pref p{
+	margin: 0 0 10px 0;
+	padding: 0 0 0 27px;
+	line-height: 1.6em;
+}
+
+div#content_in div.pref table{
+	width: 600px;
+	margin: 0 auto 10px auto;
+	border-collapse: collapse;
+	border-spacing: 0px;
+}
+	
+	div#content_in div.pref table th,
+	div#content_in div.pref table td{
+		padding: 5px;
+		border: 1px #000 solid;
+	}
+	
+	div#content_in div.pref table td.cas_photo{
+		width: 200px;
+		line-height: 0;
+	}
+
+div#content_in div.pref ul{
+	margin: 0 0 10px 50px;
+	list-style-image: url("../image/circle.gif");
+}
+
+
+div#content_in div.pref ul li{
+	margin: 0 0 5px 0;
+}
+
+
+div#content_in hr.pref_hr{
+	margin: 0 0 5px 0;
+	border: 1px #0000FF dashed;
+	border-width: 2px 0 0 0;
+}
+
+div#content_in div.pagetop{
+	text-align: right;
+	font-size: 0.8em;
+}
